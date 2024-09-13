@@ -51,14 +51,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kyedevelopment/kyedevelopment/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="212" src="https://cdn.discordapp.com/attachments/958900083959681065/1284164629336952962/devbanner_main_extra.gif?ex=66e5a302&is=66e45182&hm=0226a2c399db765b80a979483676d5521bdd2acff0266f0888ae3e04551cd38b&"  />
-</div>
+<p align="left">I also play too much siege!</p>
 
 ###
